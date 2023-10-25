@@ -1,0 +1,66 @@
+.gallery img{
+    width: 100%;
+    height: auto;
+}
+.desc{
+    padding: 15px;
+    text-align: center;
+    color: rgb(88, 230, 156);
+}
+.fut{
+    font-size: 20px;
+    padding: 10px;
+    background-color: burlywood;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+body {
+    float: left;
+    width: auto;
+    height: fit-content;
+    background-image: url(../img/me\ \(4\).jpg);
+    background-position: center;
+    background-size: cover;
+}
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+button{
+    color: blue;
+    background-color: rgb(194, 113, 113);
+    font-size: 20px;
+    height: fit-content;
+    width: 130px;
+}
+
+.container{
+    max-width: 1250px;
+    margin: auto;
+    background-color: #272323;
+    overflow: auto;
+}
+.gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 400px;
+    transition: all ease-in-out 100ms;
+    background-repeat: no-repeat;
+}
+.p{
+    background-color: aqua;
+    padding: 10px;
+}
+#he{
+    background-color: rgb(60, 200, 200);
+    font-size: 2.5em;
+    color: rgb(237, 146, 34);
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+}
